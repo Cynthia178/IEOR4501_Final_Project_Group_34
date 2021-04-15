@@ -8,9 +8,7 @@ In our application, you can:
 1): Get a map indicating the squirrels' locations.  
 2): Get a list containing all squirrel sightings.  
 3): Update or add new sightings. 
-
-
-
+4)：View general stats about the sightings.
 
 
 ## Project Group Information:
